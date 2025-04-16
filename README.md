@@ -22,23 +22,9 @@ Espero que te gu
   <img src="https://img.shields.io/badge/HTML-16.25%25-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 </div>
 
-<!-- GitHub Stats with animations -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SannCheezDev&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SannCheezDev&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
-
 <!-- Animated typing effect -->
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Desarrollador+Full+Stack;Apasionado+por+la+tecnología;Siempre+aprendiendo+algo+nuevo" alt="Typing SVG" />
   </a>
 </p>
-
-<!-- Activity graph -->
-<div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=SannCheezDev&theme=react-dark&hide_border=true" alt="Contribution Graph" />
-</div>
