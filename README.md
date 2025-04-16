@@ -1,6 +1,6 @@
 <div align="left">
 
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Bienvenido+a+mi+Github;Soy+sanncheez&font=Fira%20Code&center=false&width=380&height=50&duration=4000&pause=1000&color=3498db">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Bienvenido+a+mi+Github;Espero+que+te+guste!&font=Fira%20Code&center=false&width=380&height=50&duration=4000&pause=1000&color=3498db">
 
 </div>
 
@@ -13,12 +13,6 @@
 <a href="https://discord.com/users/sanncheez"><img src="https://img.shields.io/badge/Discord-sanncheez-3498db?style=for-the-badge&logo=discord&logoColor=white&labelColor=333333"></a>
 
 </p>
-
-## 🔥 Most Used Languages
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanncheez&layout=compact&hide_border=true&bg_color=0D1117&text_color=FFFFFF&title_color=3498db" alt="Most Used Languages" />
-</div>
 
 ## 💻 Habilidades Técnicas
 
