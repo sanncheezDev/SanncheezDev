@@ -15,13 +15,9 @@ Espero que te gu
 
 ## 💻 Habilidades Técnicas
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Most%20Used%20Languages-2d2b55?style=for-the-badge&labelColor=2d2b55" alt="Most Used Languages" />
-</div>
-
-<div align="center">
+<div align="left">
   <table>
-    <tr><td align="center" style="background-color:#2d2b55; padding:10px; border-radius:10px;">
+    <tr><td align="left" style="background-color:#2d2b55; padding:10px; border-radius:10px;">
       <div>
         <img src="https://img.shields.io/badge/JavaScript-31.53%25-F7DF1E?style=flat-square&logo=javascript&logoColor=black&labelColor=333333" />
       </div>
