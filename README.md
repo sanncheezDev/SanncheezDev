@@ -1,7 +1,6 @@
 <div align="left">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Bienvenido+a+mi+Github;Soy+sanncheez&font=Fira%20Code&center=false&width=380&height=50&duration=4000&pause=1000&color=3498db">
 </div>
-
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Contacto
 
 <p align="left">
