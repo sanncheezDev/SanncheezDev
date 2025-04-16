@@ -12,18 +12,7 @@
   <a href="mailto:sanncheezdev@gmail.com"><img src="https://img.shields.io/badge/Email-sanncheezdev@gmail.com-3498db?style=for-the-badge&logo=gmail&logoColor=white&labelColor=333333"></a>
   <a href="https://discord.com/users/sanncheez"><img src="https://img.shields.io/badge/Discord-sanncheez-3498db?style=for-the-badge&logo=discord&logoColor=white&labelColor=333333"></a>
 </p>
-
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30"> Estadísticas
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=sanncheez&show_icons=true&theme=github_dark&border_color=333333&bg_color=00000000&icon_color=3498db&title_color=3498db&text_color=ffffff" alt="GitHub Stats" />
-</p>
-
 ## 🔥 Lenguajes más usados
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanncheez&layout=compact&theme=github_dark&border_color=333333&bg_color=00000000&title_color=3498db&text_color=ffffff" alt="Top Languages" />
-</p>
 
 ## 💻 Habilidades Técnicas
 
@@ -72,18 +61,4 @@
       </div>
     </div>
   </div>
-</div>
-
-## 🤝 Habilidades Profesionales
-
-<div align="left" style="background-color: rgba(0,0,0,0.6); border: 1px solid #333; padding: 15px; display: inline-block; border-radius: 5px; color: white; max-width: 600px;">
-  <p>💼 <strong>Trabajo en Equipo:</strong> Experiencia colaborando en proyectos de desarrollo con equipos multidisciplinarios, utilizando metodologías ágiles para lograr objetivos comunes.</p>
-  
-  <p>🔄 <strong>Adaptabilidad:</strong> Capacidad para aprender rápidamente nuevas tecnologías y adaptarme a entornos cambiantes en el desarrollo de software.</p>
-  
-  <p>🎯 <strong>Resolución de Problemas:</strong> Enfoque analítico para identificar y solucionar problemas complejos de programación de manera eficiente.</p>
-  
-  <p>📊 <strong>Gestión de Proyectos:</strong> Experiencia en planificación, seguimiento y entrega de proyectos de desarrollo web cumpliendo plazos y requisitos.</p>
-  
-  <p>🔍 <strong>Atención al Detalle:</strong> Compromiso con la calidad del código y las mejores prácticas de desarrollo para crear soluciones robustas y mantenibles.</p>
 </div>
