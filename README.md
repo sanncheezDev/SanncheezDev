@@ -22,13 +22,12 @@
 ## 🔥 Lenguajes más usados
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanncheez&layout=compact&theme=github_dark&border_color=333333&bg_color=00000000&title_color=3498db&text_color=ffffff" alt="Top Languages" />
-</p>
-
-<div align="left" style="background-color: rgba(0,0,0,0.6); border: 1px solid #333; padding: 10px; display: inline-block;">
+ <div align="left" style="background-color: rgba(0,0,0,0.6); border: 1px solid #333; padding: 10px; display: inline-block;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vue" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" alt="lua" width="40" height="40"/>
 </div>
+</p>
+
