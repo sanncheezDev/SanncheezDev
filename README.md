@@ -1,5 +1,5 @@
 <div align="left">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Bienvenido+a+mi+Github;Soy+sanncheez&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Bienvenido+a+mi+Github;Soy+sanncheez&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000&color=FF6E96">
 </div>
 
 <p align="left">
@@ -9,25 +9,27 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Contacto
 
 <p align="left">
-  <a href="mailto:sanncheezdev@gmail.com"><img src="https://img.shields.io/badge/Email-sanncheezdev@gmail.com-blue?style=for-the-badge&logo=gmail"></a>
-  <a href="https://discord.com/users/sanncheez"><img src="https://img.shields.io/badge/Discord-sanncheez-7289DA?style=for-the-badge&logo=discord"></a>
+  <a href="mailto:sanncheezdev@gmail.com"><img src="https://img.shields.io/badge/Email-sanncheezdev@gmail.com-FF6E96?style=for-the-badge&logo=gmail"></a>
+  <a href="https://discord.com/users/sanncheez"><img src="https://img.shields.io/badge/Discord-sanncheez-9580FF?style=for-the-badge&logo=discord"></a>
 </p>
 
 ## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30"> Estadísticas
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=sanncheez&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sanncheez&show_icons=true&theme=synthwave" alt="GitHub Stats" />
 </p>
 
 ## 🔥 Lenguajes más usados
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanncheez&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanncheez&layout=compact&theme=synthwave" alt="Top Languages" />
 </p>
 
 <div align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="html" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="lua" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vue" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" alt="lua" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 </div>
