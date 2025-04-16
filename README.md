@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400">
+  <img src="[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://cdn.discordapp.com/attachments/963491126172586117/1362050154642804776/Perfil_Dc.png?ex=6800fb8e&is=67ffaa0e&hm=9798e45a501b91f474c3c142b57b92a9a1cc3be31f060b0cec637b5ff39f5a8d&)" width="400">
 </p>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Contacto
