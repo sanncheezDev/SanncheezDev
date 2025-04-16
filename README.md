@@ -2,10 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Bienvenido+a+mi+Github;Soy+sanncheez&font=Fira%20Code&center=false&width=380&height=50&duration=4000&pause=1000&color=3498db">
 </div>
 
-<p align="left">
-  <img src="https://cdn.discordapp.com/attachments/963491126172586117/1362050154642804776/Perfil_Dc.png?ex=6800fb8e&is=67ffaa0e&hm=9798e45a501b91f474c3c142b57b92a9a1cc3be31f060b0cec637b5ff39f5a8d&" width="400" style="border: 2px solid #333; background-color: rgba(0,0,0,0.6);">
-</p>
-
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Contacto
 
 <p align="left">
