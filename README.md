@@ -15,12 +15,14 @@
 
 ## 💻 Habilidades Técnicas
 
-## 💻 Habilidades Técnicas
-
-| Lenguaje | Nivel |
-| --- | --- |
-| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) | ⭐⭐⭐⭐⭐ |
-| ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) | ⭐⭐⭐⭐ |
-| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ⭐⭐⭐⭐ |
-| ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white) | ⭐⭐⭐⭐ |
-| ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white) | ⭐⭐⭐ |
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-90%25-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=333333" />
+  <br>
+  <img src="https://img.shields.io/badge/CSS3-85%25-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=333333" />
+  <br>
+  <img src="https://img.shields.io/badge/JavaScript-80%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=333333" />
+  <br>
+  <img src="https://img.shields.io/badge/Vue.js-75%25-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white&labelColor=333333" />
+  <br>
+  <img src="https://img.shields.io/badge/Lua-70%25-2C2D72?style=for-the-badge&logo=lua&logoColor=white&labelColor=333333" />
+</p>
