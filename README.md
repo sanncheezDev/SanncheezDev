@@ -14,16 +14,27 @@
 
 </p>
 
+## 🔥 Most Used Languages
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanncheez&layout=compact&hide_border=true&bg_color=0D1117&text_color=FFFFFF&title_color=3498db" alt="Most Used Languages" />
+</div>
+
 ## 💻 Habilidades Técnicas
 
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-90%25-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=333333" />
-  <br>
-  <img src="https://img.shields.io/badge/CSS3-85%25-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=333333" />
-  <br>
-  <img src="https://img.shields.io/badge/JavaScript-80%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=333333" />
-  <br>
-  <img src="https://img.shields.io/badge/Vue.js-75%25-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white&labelColor=333333" />
-  <br>
-  <img src="https://img.shields.io/badge/Lua-70%25-2C2D72?style=for-the-badge&logo=lua&logoColor=white&labelColor=333333" />
-</p>
+<div align="left">
+  <table>
+    <tr>
+      <td><img src="https://img.shields.io/badge/JavaScript-31.53%25-F7DF1E?style=flat-square&logo=javascript&logoColor=white&color=F7DF1E&labelColor=282828" /></td>
+    </tr>
+    <tr>
+      <td><img src="https://img.shields.io/badge/CSS-23.66%25-1572B6?style=flat-square&logo=css3&logoColor=white&color=1572B6&labelColor=282828" /></td>
+    </tr>
+    <tr>
+      <td><img src="https://img.shields.io/badge/Lua-28.55%25-2C2D72?style=flat-square&logo=lua&logoColor=white&color=2C2D72&labelColor=282828" /></td>
+    </tr>
+    <tr>
+      <td><img src="https://img.shields.io/badge/HTML-16.25%25-E34F26?style=flat-square&logo=html5&logoColor=white&color=E34F26&labelColor=282828" /></td>
+    </tr>
+  </table>
+</div>
