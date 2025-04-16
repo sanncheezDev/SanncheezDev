@@ -12,7 +12,6 @@
   <a href="mailto:sanncheezdev@gmail.com"><img src="https://img.shields.io/badge/Email-sanncheezdev@gmail.com-3498db?style=for-the-badge&logo=gmail&logoColor=white&labelColor=333333"></a>
   <a href="https://discord.com/users/sanncheez"><img src="https://img.shields.io/badge/Discord-sanncheez-3498db?style=for-the-badge&logo=discord&logoColor=white&labelColor=333333"></a>
 </p>
-## 🔥 Lenguajes más usados
 
 ## 💻 Habilidades Técnicas
 
