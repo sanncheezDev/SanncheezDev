@@ -15,11 +15,33 @@ Espero que te gu
 
 ## 💻 Habilidades Técnicas
 
-<div align="left">
-  <img src="https://img.shields.io/badge/JavaScript-31.53%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/CSS-23.66%25-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Lua-28.55%25-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML-16.25%25-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SannCheezDev&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/JavaScript-31.53%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/CSS-23.66%25-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Lua-28.55%25-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/HTML-16.25%25-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 <!-- Animated typing effect -->
