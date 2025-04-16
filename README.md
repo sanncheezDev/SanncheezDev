@@ -22,12 +22,59 @@
 ## 🔥 Lenguajes más usados
 
 <p align="left">
- <div align="left" style="background-color: rgba(0,0,0,0.6); border: 1px solid #333; padding: 10px; display: inline-block;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vue" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" alt="lua" width="40" height="40"/>
-</div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanncheez&layout=compact&theme=github_dark&border_color=333333&bg_color=00000000&title_color=3498db&text_color=ffffff" alt="Top Languages" />
 </p>
 
+## 💻 Habilidades
+
+<div align="left" style="background-color: rgba(0,0,0,0.6); border: 1px solid #333; padding: 15px; display: inline-block; border-radius: 5px;">
+  <div style="display: flex; align-items: center; margin-bottom: 10px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html" width="40" height="40"/>
+    <div style="margin-left: 10px; width: 200px;">
+      <div style="background-color: #333; height: 10px; border-radius: 5px;">
+        <div style="background-color: #3498db; height: 10px; width: 90%; border-radius: 5px;"></div>
+      </div>
+      <span style="color: white; font-size: 12px;">HTML - 90%</span>
+    </div>
+  </div>
+  
+  <div style="display: flex; align-items: center; margin-bottom: 10px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css" width="40" height="40"/>
+    <div style="margin-left: 10px; width: 200px;">
+      <div style="background-color: #333; height: 10px; border-radius: 5px;">
+        <div style="background-color: #3498db; height: 10px; width: 85%; border-radius: 5px;"></div>
+      </div>
+      <span style="color: white; font-size: 12px;">CSS - 85%</span>
+    </div>
+  </div>
+  
+  <div style="display: flex; align-items: center; margin-bottom: 10px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+    <div style="margin-left: 10px; width: 200px;">
+      <div style="background-color: #333; height: 10px; border-radius: 5px;">
+        <div style="background-color: #3498db; height: 10px; width: 80%; border-radius: 5px;"></div>
+      </div>
+      <span style="color: white; font-size: 12px;">JavaScript - 80%</span>
+    </div>
+  </div>
+  
+  <div style="display: flex; align-items: center; margin-bottom: 10px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vue" width="40" height="40"/>
+    <div style="margin-left: 10px; width: 200px;">
+      <div style="background-color: #333; height: 10px; border-radius: 5px;">
+        <div style="background-color: #3498db; height: 10px; width: 75%; border-radius: 5px;"></div>
+      </div>
+      <span style="color: white; font-size: 12px;">Vue.js - 75%</span>
+    </div>
+  </div>
+  
+  <div style="display: flex; align-items: center;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" alt="lua" width="40" height="40"/>
+    <div style="margin-left: 10px; width: 200px;">
+      <div style="background-color: #333; height: 10px; border-radius: 5px;">
+        <div style="background-color: #3498db; height: 10px; width: 70%; border-radius: 5px;"></div>
+      </div>
+      <span style="color: white; font-size: 12px;">Lua - 70%</span>
+    </div>
+  </div>
+</div>
