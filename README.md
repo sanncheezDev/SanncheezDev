@@ -25,56 +25,65 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanncheez&layout=compact&theme=github_dark&border_color=333333&bg_color=00000000&title_color=3498db&text_color=ffffff" alt="Top Languages" />
 </p>
 
-## 💻 Habilidades
+## 💻 Habilidades Técnicas
 
 <div align="left" style="background-color: rgba(0,0,0,0.6); border: 1px solid #333; padding: 15px; display: inline-block; border-radius: 5px;">
   <div style="display: flex; align-items: center; margin-bottom: 10px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html" width="40" height="40"/>
     <div style="margin-left: 10px; width: 200px;">
-      <div style="background-color: #333; height: 10px; border-radius: 5px;">
-        <div style="background-color: #3498db; height: 10px; width: 90%; border-radius: 5px;"></div>
+      <div style="background-color: #333; height: 10px; border-radius: 5px; position: relative;">
+        <div style="background-color: #3498db; height: 10px; width: 90%; border-radius: 5px; position: absolute; top: 0; left: 0;"></div>
       </div>
-      <span style="color: white; font-size: 12px;">HTML - 90%</span>
     </div>
   </div>
   
   <div style="display: flex; align-items: center; margin-bottom: 10px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css" width="40" height="40"/>
     <div style="margin-left: 10px; width: 200px;">
-      <div style="background-color: #333; height: 10px; border-radius: 5px;">
-        <div style="background-color: #3498db; height: 10px; width: 85%; border-radius: 5px;"></div>
+      <div style="background-color: #333; height: 10px; border-radius: 5px; position: relative;">
+        <div style="background-color: #3498db; height: 10px; width: 85%; border-radius: 5px; position: absolute; top: 0; left: 0;"></div>
       </div>
-      <span style="color: white; font-size: 12px;">CSS - 85%</span>
     </div>
   </div>
   
   <div style="display: flex; align-items: center; margin-bottom: 10px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
     <div style="margin-left: 10px; width: 200px;">
-      <div style="background-color: #333; height: 10px; border-radius: 5px;">
-        <div style="background-color: #3498db; height: 10px; width: 80%; border-radius: 5px;"></div>
+      <div style="background-color: #333; height: 10px; border-radius: 5px; position: relative;">
+        <div style="background-color: #3498db; height: 10px; width: 80%; border-radius: 5px; position: absolute; top: 0; left: 0;"></div>
       </div>
-      <span style="color: white; font-size: 12px;">JavaScript - 80%</span>
     </div>
   </div>
   
   <div style="display: flex; align-items: center; margin-bottom: 10px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vue" width="40" height="40"/>
     <div style="margin-left: 10px; width: 200px;">
-      <div style="background-color: #333; height: 10px; border-radius: 5px;">
-        <div style="background-color: #3498db; height: 10px; width: 75%; border-radius: 5px;"></div>
+      <div style="background-color: #333; height: 10px; border-radius: 5px; position: relative;">
+        <div style="background-color: #3498db; height: 10px; width: 75%; border-radius: 5px; position: absolute; top: 0; left: 0;"></div>
       </div>
-      <span style="color: white; font-size: 12px;">Vue.js - 75%</span>
     </div>
   </div>
   
   <div style="display: flex; align-items: center;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" alt="lua" width="40" height="40"/>
     <div style="margin-left: 10px; width: 200px;">
-      <div style="background-color: #333; height: 10px; border-radius: 5px;">
-        <div style="background-color: #3498db; height: 10px; width: 70%; border-radius: 5px;"></div>
+      <div style="background-color: #333; height: 10px; border-radius: 5px; position: relative;">
+        <div style="background-color: #3498db; height: 10px; width: 70%; border-radius: 5px; position: absolute; top: 0; left: 0;"></div>
       </div>
-      <span style="color: white; font-size: 12px;">Lua - 70%</span>
     </div>
   </div>
+</div>
+
+## 🤝 Habilidades Profesionales
+
+<div align="left" style="background-color: rgba(0,0,0,0.6); border: 1px solid #333; padding: 15px; display: inline-block; border-radius: 5px; color: white; max-width: 600px;">
+  <p>💼 <strong>Trabajo en Equipo:</strong> Experiencia colaborando en proyectos de desarrollo con equipos multidisciplinarios, utilizando metodologías ágiles para lograr objetivos comunes.</p>
+  
+  <p>🔄 <strong>Adaptabilidad:</strong> Capacidad para aprender rápidamente nuevas tecnologías y adaptarme a entornos cambiantes en el desarrollo de software.</p>
+  
+  <p>🎯 <strong>Resolución de Problemas:</strong> Enfoque analítico para identificar y solucionar problemas complejos de programación de manera eficiente.</p>
+  
+  <p>📊 <strong>Gestión de Proyectos:</strong> Experiencia en planificación, seguimiento y entrega de proyectos de desarrollo web cumpliendo plazos y requisitos.</p>
+  
+  <p>🔍 <strong>Atención al Detalle:</strong> Compromiso con la calidad del código y las mejores prácticas de desarrollo para crear soluciones robustas y mantenibles.</p>
 </div>
