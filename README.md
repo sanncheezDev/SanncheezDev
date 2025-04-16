@@ -3,29 +3,28 @@
 ## Sobre mí
 Siempre aprendiendo y mejorando mis habilidades en desarrollo web.
 
-## 📞 Contacto
+## 📱 Contacto
 
-[![Gmail](https://img.shields.io/badge/Email-sanncheezdev%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:sanncheezdev@gmail.com)
-[![Discord](https://img.shields.io/badge/Discord-sanncheez-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/sanncheez)
+<div align="center">
+  <a href="mailto:sanncheezdev@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-sanncheezdev%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://discord.com/users/sanncheez">
+    <img src="https://img.shields.io/badge/Discord-sanncheez-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+</div>
 
 ## 💻 Habilidades Técnicas
 
-```
-JavaScript  ███████████████▒▒▒▒▒▒▒▒▒  31.53%
-CSS         █████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒  23.66%
-Lua         ███████████▒▒▒▒▒▒▒▒▒▒▒▒▒  28.55%
-HTML        ██████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒  16.25%
-```
+<div align="center">
 
-### Frameworks y herramientas
-- React
-- Node.js
-- Git
-- VSCode
+| Lenguaje | Nivel |
+|----------|-------|
+| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | <img src="https://progress-bar.dev/31.53" width="170px"/> |
+| ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white) | <img src="https://progress-bar.dev/23.66" width="170px"/> |
+| ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white) | <img src="https://progress-bar.dev/28.55" width="170px"/> |
+| ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) | <img src="https://progress-bar.dev/16.25" width="170px"/> |
 
-## 📚 Proyectos destacados
-<!-- Puedes añadir aquí enlaces a tus proyectos más importantes -->
+</div>
 
-## 📈 Estadísticas de GitHub
-
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=SannncheezDev&show_icons=true&theme=radical)
+<!-- Siempre aprendiendo a... -->
