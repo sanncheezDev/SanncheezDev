@@ -31,15 +31,3 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="html" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="lua" width="40" height="40"/>
 </div>
-
-<div align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=sanncheez&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-</div>
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=sanncheez&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
-<div align="left">
-  <img src="https://raw.githubusercontent.com/sanncheez/sanncheez/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
