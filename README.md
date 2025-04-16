@@ -1,16 +1,11 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy [Sanchez]
 
-<!--
-**sanncheezDev/SanncheezDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Sobre mí
+- 🔭 Actualmente trabajando en: [Solno Network]
+- 🌱 Aprendiendo: [React & PHP]
+- 🧰 Tech Stack: HTML, CSS, JavaScript, Vue y Lua.
+- 💬 Pregúntame sobre: FiveM, QBCore, ESX, desarrollo web y desarrollo de bots para discord
+- 📫 Cómo contactarme: [sanncheezdev@gmail.com]
+- 
+![Profile views](https://komarev.com/ghpvc/?username=TU_USUARIO)
+![GitHub followers](https://img.shields.io/github/followers/TU_USUARIO?style=social)
