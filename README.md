@@ -1,10 +1,6 @@
 <h1 align="center">Hi dude, I'm Sanchez 👋</h1>
 
----
-
-<h3 align="center">
-  <strong>Frontend Developer</strong> | <strong>Game Developer</strong>
-</h3>
+--
 
 <h3 align="center">
   <a href="https://git.io/typing-svg">
@@ -12,7 +8,7 @@
   </a>
 </h3>
 
----
+--
 
 ## 🛠️ Technologies
 
